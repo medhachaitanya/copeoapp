@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Copeo Timesheets                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                :                                 # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : clock
 
   - title                                 : Week Totals
-    description                           : See the total week hours along with the regular hours and the over-time hours.
+    description                           : See the total worked hours for the whole week along with the regular hours and the over-time hours.
     fontawesome_icon_name                 : calendar-week
 
   - title                                 : Pay Info
