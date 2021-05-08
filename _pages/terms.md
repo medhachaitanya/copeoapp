@@ -26,7 +26,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 Changes to This Terms and Conditions
 
-I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
+These Terms and Conditions could be updated from time to time. Thus, you are advised to review this page periodically for any changes.
 
 <br>
 
