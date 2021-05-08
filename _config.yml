@@ -34,21 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Submit your time to your managers/employer.
-    description                           : 
+  - title                                 : Submit your work time to your manager
+    description                           : No discrepancies or wrong calculations involved 
     fontawesome_icon_name                 : mobile
     
   - title                                 : Clock In and Clock Out
     description                           : Automatically calculate the total hours worked for each day.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : clock
 
   - title                                 : Week Totals
     description                           : See the total week hours along with the regular hours and the over-time hours.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : calendar-week
 
   - title                                 : Pay Info
     description                           : See your pay info for the time you've worked.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : money-check-alt
 
 
 
