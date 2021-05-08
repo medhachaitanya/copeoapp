@@ -11,11 +11,11 @@ Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md
 
 ### `Latest`
 # **Version 1.0**
-This is the first release of our app. 
+This is the first release of my app. 
 
 #### What's New
 - Calculate total hours based on clock in, clock out times.
 - Calculate total hours for the week
 - Save your timesheet
-- Submit your timesheet
+- Submit your timesheet to your manager
 - Access submitted timesheets and your pay history
