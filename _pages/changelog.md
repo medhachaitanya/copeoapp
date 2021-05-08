@@ -18,4 +18,4 @@ This is the first release of our app.
 - Calculate total hours for the week
 - Save your timesheet
 - Submit your timesheet
-- Access your timesheet and pay history
+- Access submitted timesheets and your pay history
