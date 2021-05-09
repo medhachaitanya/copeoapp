@@ -47,7 +47,7 @@ features                                  :
     fontawesome_icon_name                 : calendar-week
 
   - title                                 : Pay Info
-    description                           : See your pay info for the time you've worked.
+    description                           : View earning per work period
     fontawesome_icon_name                 : money-check-alt
 
 
