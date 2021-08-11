@@ -49,6 +49,10 @@ features                                  :
   - title                                 : Pay Info
     description                           : View earning per work period
     fontawesome_icon_name                 : money-check-alt
+  
+  - title                                 : Simple User Interface
+    description                           : Submit & see timesheets with effortless UI  
+    fontawesome_icon_name                 : check-circle
 
 
 
