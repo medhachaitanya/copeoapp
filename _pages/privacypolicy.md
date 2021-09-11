@@ -20,7 +20,7 @@ If you choose to use the Service, then you agree to the collection and use of in
 
 ## 1.0 Information Collection and Use
 For a better experience, while using our Service, the app may require you to provide us with certain personally identifiable information, including but not limited to Clock in, out times to be submitted for the employer/manager. The information that the app requests will be stored in a secured server and will not used by the app developer in any way. Your manager/employer can see the data but cannot modify it. For example, the time that you have submitted. 
-
+<br>
 Whenever the app refers to **employer/manager/time-approval-user**, it refers to the user who approves the timesheets. **Employee/time-submission-user** refers to the user who submits the time to his manager. The app is built to provide a helping hand to the employer/manager/employee and does not process any payroll information that needs to be submitted to the IRS/concerned tax department. It is the sole responsibilty of the manager/employer/employee to handle/report any such pay/time information to the IRS and adhere to the government tax rules and regulations. The app/developer cannot be held responsible under any circumstances. This app has been designed to be used for quick time-tracking purposes. The app has features to add hourly pay information to help the employer/manager/submitter see the total amount for quick and handy purposes only.
 
 ### 1.1 Cookies
