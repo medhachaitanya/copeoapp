@@ -21,7 +21,9 @@ If you choose to use the Service, then you agree to the collection and use of in
 ## 1.0 Information Collection and Use
 For a better experience, while using our Service, the app may require you to provide us with certain personally identifiable information, including but not limited to Clock in, out times to be submitted for the employer/manager. The information that the app requests will be stored in a secured server and will not used by the app developer in any way. Your manager/employer can see the data but cannot modify it. For example, the time that you have submitted. 
 <br>
-Whenever the app refers to **employer/manager/time-approval-user**, it refers to the user who approves the timesheets. **Employee/time-submission-user** refers to the user who submits the time to his manager. The app is built to provide a helping hand to the employer/manager/employee and does not process any payroll information that needs to be submitted to the IRS/concerned tax department. It is the sole responsibilty of the manager/employer/employee to handle/report any such pay/time information to the IRS and adhere to the government tax rules and regulations. The app/developer cannot be held responsible under any circumstances. This app has been designed to be used for quick time-tracking purposes. The app has features to add hourly pay information to help the employer/manager/submitter see the total amount for quick and handy purposes only.
+Whenever the app refers to **employer/manager/time-approval-user**, it refers to the user who approves the timesheets. **Employee/time-submission-user** refers to the user who submits the time to his manager. The app is built to provide a helping hand to the employer/manager/employee and does not process any payroll information that needs to be submitted to the IRS/concerned tax department(s). It is the sole responsibilty of the manager/employer/employee to handle/report any such pay/time related information to the IRS and adhere to the government tax rules and regulations. The app/developer cannot be held responsible under any circumstances. This app has been designed to be used for quick time-tracking purposes. The app has features to add hourly pay information to help the employer/manager/submitter see the total amount for quick and handy purposes only.
+<br>
+Using this app means you have read,understood and agreed to the privacy policies, terms and conditions as here in this document/website.
 
 ### 1.1 Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
@@ -55,7 +57,7 @@ The app is made for workers/employees > 18 years of age. The app does not addres
 ## 4.0 Changes to This Privacy Policy
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-05-08
+This policy is effective as of 2021-09-11.
 
 <br>
 
