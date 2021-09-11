@@ -5,10 +5,10 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 8 2021
+Sep 11 2021
 
 # Privacy Policy
-Medha Karri built the Copeo Timesheet Submission app as a Free app. This SERVICE is provided by Medha Karri at no cost and is intended for use as is.
+Medha Karri built the Copeo Timesheet Submission/Approval app as a Free app. This SERVICE is provided by Medha Karri at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Service.
 
@@ -20,6 +20,7 @@ If you choose to use the Service, then you agree to the collection and use of in
 
 ## 1.0 Information Collection and Use
 For a better experience, while using our Service, the app may require you to provide us with certain personally identifiable information, including but not limited to Clock in, out times to be submitted for the employer/manager. The information that the app requests will be stored in a secured server and will not used by the app developer in any way. Your manager/employer can see the data but cannot modify it. For example, the time that you have submitted. 
+Whenever the app refers to **employer/manager/time-approval-user**, it refers to the user who approves the timesheets. **Employee/time-submission-user** refers to the user who submits the time to his manager. The app is built to provide a helping hand to the employer/manager/employee and does not process any payroll information that needs to be submitted to the IRS. It is the responsibility of the employer/manager/employee to submit any payroll information to the IRS. The app/developer cannot be held responsible for any payroll related discrepencies/representations. It is the sole responsibilty of the manager/employer/employee to handle/report any such pay/time information to the IRS. This app should be used only for time tracking purposes. The app has features to add hourly pay information to help the employer/manager/submitter see the amount for handy purposes only.
 
 ### 1.1 Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
