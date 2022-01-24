@@ -6,7 +6,7 @@ ios_app_id                                :                                 # Re
 
 appstore_link                             : https://apps.apple.com/us/app/copeo-timesheet-submission/id1566616378                                          # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
 playstore_link                            : https://play.google.com/store/apps/details?id=copeo.timesheets.employee                                          # Enter Google Play Store URL.
-presskit_download_link                    : https://www.copeo.app/                    # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
+presskit_download_link                    : http://localhost:8080/index.html#/login                    # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
@@ -34,11 +34,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Submit your work time to your manager
+  - title                                 : Employees submit time to manager
     description                           : No discrepancies or wrong calculations involved 
     fontawesome_icon_name                 : mobile
     
-  - title                                 : Clock In and Clock Out
+  - title                                 : Employee Clock In and Clock Out
     description                           : Automatically calculate the total hours worked for each day.
     fontawesome_icon_name                 : clock
 
@@ -52,6 +52,10 @@ features                                  :
   
   - title                                 : Simple User Interface
     description                           : Submit & see timesheets with effortless UI  
+    fontawesome_icon_name                 : check-circle
+    
+  - title                                 : Timesheets Mode | Attendance Mode
+    description                           : Use the app for employee timesheets or just for clock-in, clock-out attendance purposes.  
     fontawesome_icon_name                 : check-circle
 
 
