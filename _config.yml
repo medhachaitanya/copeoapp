@@ -54,8 +54,8 @@ features                                  :
     description                           : Submit & see timesheets with effortless UI  
     fontawesome_icon_name                 : check-circle
     
-  - title                                 : Timesheets Mode | Attendance Mode
-    description                           : Use the app for employee timesheets or just for clock-in, clock-out attendance purposes.  
+  - title                                 : Timesheets Mode | Daily, Weekly Mode
+    description                           : Submit time daily or Submit weekly.  
     fontawesome_icon_name                 : check-circle
 
 
