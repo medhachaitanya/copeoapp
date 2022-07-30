@@ -55,7 +55,7 @@ features                                  :
     fontawesome_icon_name                 : check-circle
     
   - title                                 : Timesheets Mode | Daily, Weekly Mode
-    description                           : Submit time daily or Submit weekly.  
+    description                           : Submit time daily or weekly.  
     fontawesome_icon_name                 : check-circle
 
 
