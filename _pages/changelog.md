@@ -5,6 +5,15 @@ include_in_header: true
 ---
 
 ### `Latest`
+# **Version 2.2**
+This is the first release of my app. 
+
+#### What's New
+- Released employee attendance
+- User interface improvements based on user feedback
+
+
+### `v1`
 # **Version 1.0**
 This is the first release of my app. 
 
