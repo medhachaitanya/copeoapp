@@ -12,7 +12,7 @@ presskit_download_link                    : https://employer.copeo.app # Enter a
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Copeo <br> Timesheets                                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Employer time approval and Employee time submission apps for small businesses, contractors and NGOs. This app is a runner-up for Wright Venture Competition, Dayton, Ohio. <br> <b> <i>Simple.    Precise.    Free. </i></b> <br/>https://tinyurl.com/5wcjswjk<br/> <br/> Download employee apps
+app_description                           : Employer time approval and Employee time submission apps for small businesses, contractors and NGOs. This app is a runner-up for Wright Venture Competition, Dayton, Ohio. <br> <b> <i>Simple.    Precise.    Free. </i></b> <br/> Download employee apps
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
