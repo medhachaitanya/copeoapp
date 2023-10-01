@@ -4,17 +4,18 @@ title: What's New
 include_in_header: true
 ---
 
-### `Latest`
-# **Version 2.2**
-This is the first release of my app. 
+### `Latest` - Mar 2023
+# **Version 3.0**
+- Released dark theme
+- Improved Performance
 
-#### What's New
+#### What's New - Dec 2021
 - Released employee attendance
 - User interface improvements based on user feedback
 
 
 ### `v1`
-# **Version 1.0**
+# **Version 1.0 - May 2021**
 This is the first release of my app. 
 
 #### What's New
