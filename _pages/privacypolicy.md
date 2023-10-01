@@ -62,4 +62,4 @@ This policy is effective as of 2021-09-11.
 <br>
 
 ## 5.0 Contact Us
-If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact me at medhachaitanya@outlook.com
+If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact me at support@copeo.app
