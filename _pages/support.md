@@ -32,11 +32,11 @@ For non-urgent inquiries, you can send us an email at support@copeo.app. Our sup
 
 Before reaching out to our support team, please check our [FAQ page](/faq) to see if your question has already been answered. We have compiled a list of common queries to provide quick solutions.
 
-### 4. Online Chat (Coming Soon)
+### 4. Online Chat (Coming Soon...)
 
 We are working on launching an online chat support service to provide real-time assistance. Stay tuned for updates!
 
-## Technical Documentation (Coming Soon)
+## Technical Documentation (Coming Soon...)
 
 For self-help and technical guidance, please refer to our comprehensive [documentation](/documentation). You'll find user guides, installation instructions, and troubleshooting tips for our software products.
 
