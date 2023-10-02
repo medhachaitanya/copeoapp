@@ -5,11 +5,13 @@ include_in_header: true
 ---
 
 ### `Latest` - Mar 2023
+### `v3`
 # **Version 3.0**
 - Released dark theme
 - Improved Performance
 
-#### What's New - Dec 2021
+### `v2`
+# **Version 2.0**
 - Released employee attendance
 - User interface improvements based on user feedback
 
