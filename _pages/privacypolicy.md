@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-Sep 11 2021
+Oct 1 2023
 
 # Privacy Policy
 Medha Karri built the Copeo Timesheet Submission/Approval app as a student hobby project/application. This application is currently provided by Medha Karri at no cost and is intended for use as is.
