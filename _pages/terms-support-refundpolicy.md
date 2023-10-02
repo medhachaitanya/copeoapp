@@ -112,14 +112,16 @@ At Copeo Software Solutions, we are committed to providing our customers with th
 
 4. **Refund Processing**: If your refund request is approved, we will process the refund within 15 business days. The refund will be issued using the same payment method you used for the original purchase.
 
+Please note that this Cancellation & Refund Policy is subject to change without prior notice. It is your responsibility to review this policy periodically.
+
 ### Contact Us
 
-If you have any questions or wish to initiate a cancellation or refund request, please contact our Customer Support team at:
+If you have any questions, please contact our Customer Support team at:
 
 - **Customer Support Hotline**: +91-9052982141 / +1 (425) 728-0134
 - **Email Support**: support@copeo.app
 
-Please note that this Cancellation & Refund Policy is subject to change without prior notice. It is your responsibility to review this policy periodically.
+
 
 Thank you for choosing Copeo Software Solutions. We appreciate your trust in our products and services.
 
