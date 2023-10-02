@@ -12,7 +12,7 @@ By downloading or using the app, these terms will automatically apply to you –
 
 Copeo Software Solutions is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-The Copeo Timesheet Submission/Approval app stores and processes personal data that you/your employer/manager have provided to us, in order to provide my Service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Copeo Timesheet Submission/Approval app won’t work properly or at all.
+The Copeo Timesheet Submission/Approval app stores and processes personal data that you/your employer/manager has provided to us, in order to provide our service. It’s your responsibility to keep your phone and access to the app secure. We therefore recommend that you do not jailbreak or root your phone, which is the process of removing software restrictions and limitations imposed by the official operating system of your device. It could make your phone vulnerable to malware/viruses/malicious programs, compromise your phone’s security features and it could mean that the Copeo Timesheet Submission/Approval app won’t work properly or at all.
 
 You should be aware that there are certain things that Copeo Software Solutions will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Copeo Software Solutions cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
@@ -60,7 +60,7 @@ If you have an urgent issue or need immediate assistance, please call our Custom
 
 For non-urgent inquiries, you can send us an email at support@copeo.app. Our support team will respond to your email as soon as possible, typically within 24 hours during business days.
 
-### 3. Frequently Asked Questions (FAQ)
+### 3. Frequently Asked Questions (FAQ) (Coming Soon…)
 
 Before reaching out to our support team, please check our [FAQ page](/faq) to see if your question has already been answered. We have compiled a list of common queries to provide quick solutions.
 
@@ -83,14 +83,6 @@ We value your feedback and are continuously working to improve our products and 
 ## Customer Satisfaction
 
 At Copeo Software Solutions, your satisfaction is our top priority. We strive to provide the best possible support experience. If you have any concerns or feedback about our support services, please let us know.
-
-Thank you for choosing Copeo Software Solutions for your software needs. We look forward to assisting you!
-
-
-
-Certainly! Here's a sample Cancellation & Refund Policy that you can use for your Indian software company's support page:
-
----
 
 **Cancellation & Refund Policy**
 
