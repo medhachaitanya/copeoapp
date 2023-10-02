@@ -36,7 +36,7 @@ Welcome to Copeo Software Solutions Customer Support. We are committed to provid
 
 ## Contact Information
 
-**Customer Support Hotline**: +91-9052982141
+**Customer Support Hotline**: +91-9052982141 / +1 (425) 728-0134
 
 **Email Support**: support@copeo.app
 
@@ -124,7 +124,7 @@ At Copeo Software Solutions, we are committed to providing our customers with th
 
 If you have any questions or wish to initiate a cancellation or refund request, please contact our Customer Support team at:
 
-- **Customer Support Hotline**: +91-9052982141
+- **Customer Support Hotline**: +91-9052982141 / +1 (425) 728-0134
 - **Email Support**: support@copeo.app
 
 Please note that this Cancellation & Refund Policy is subject to change without prior notice. It is your responsibility to review this policy periodically.
