@@ -54,7 +54,7 @@ features                                  :
     description                           : Submit & see timesheets with effortless UI  
     fontawesome_icon_name                 : check-circle
     
-   - title                                : Reports & Analytics
+  - title                                : Reports & Analytics
     description                           : View earnings per work period and other reports
     fontawesome_icon_name                 : check-circle
 
