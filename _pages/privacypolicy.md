@@ -8,7 +8,7 @@ include_in_header: false
 Oct 1 2023
 
 # Privacy Policy
-Myselfdha Karri built the Copeo Timesheet Submission/Approval app as a student hobby project/application. This application is currently provided by Copeo Software Solutions Pvt. Ltd, an Indian software company at no cost and is intended for use as is.
+Copeo Timesheets application is currently provided by Copeo Software Solutions Pvt. Ltd, an Indian software company at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Service.
 
